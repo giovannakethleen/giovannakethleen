@@ -2,17 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff006f&size=39&center=true&vCenter=true&width=1200&lines=Oii,+meu+nome+é+Giovanna+Kethleen;Curso+Análise+e+Desenvolvimento+de+Sistemas+na+FIAP+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=giovannakethleen&show_icons=true&count_private=true&hide_border=true&title_color=ff9500&icon_color=ff9500&text_color=fffccc&bg_color=ff006f" alt="Giovanna Kethleen github stats" /> 
+  <img width="46%" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannakethleen&layout=compact&hide_border=true&title_color=ff9500&text_color=fffccc&bg_color=ff006f" />
 </div>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GiovannaKethleen&no-frame=true&theme=jolly&row=1&no-bg=true&column=8&margin-w=15&margin-h=15" />
-</p>
 <div> 
   <a href="https://www.linkedin.com/in/giovannakethleen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
