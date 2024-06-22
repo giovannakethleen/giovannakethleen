@@ -10,8 +10,9 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/giovannakethleen=anuraghazra&show_icons=true&theme=jolly)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GiovannaKethleen&no-frame=true&theme=jolly&row=1&no-bg=true&column=8&margin-w=15&margin-h=15" />
+</p>
 <div> 
   <a href="https://www.linkedin.com/in/giovannakethleen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
