@@ -10,7 +10,7 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigiovannakethleen=anuraghazra&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?giovannakethleen=anuraghazra&show_icons=true&theme=jolly)
 
 <div> 
   <a href="https://www.linkedin.com/in/giovannakethleen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
