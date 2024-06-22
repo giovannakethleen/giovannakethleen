@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giovannakethleen&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silvanavaz13&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giovannakethleen&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 </div>
