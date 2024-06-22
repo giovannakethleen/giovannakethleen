@@ -1,4 +1,4 @@
-<img width=250% src="https://capsule-render.vercel.app/api?type=waving&color=ff006f&height=100&section=header"/>
+<img width=250% src="https://capsule-render.vercel.app/api?type=waving&color=ff006f&height=80&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff006f&size=39&center=true&vCenter=true&width=1200&lines=Oii,+meu+nome+é+Giovanna+Kethleen;Curso+Análise+e+Desenvolvimento+de+Sistemas+na+FIAP+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
 
